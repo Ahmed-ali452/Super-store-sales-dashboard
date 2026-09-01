@@ -217,7 +217,7 @@ The project uses a Super Store sales dataset containing transactional informatio
 
 ## 🖼️ Dashboard Preview
 
-![Super Store Sales Dashboard](super store sales.jpg)
+![Super-store-sales-dashboard](super store sales.jpg)
 
 ---
 
